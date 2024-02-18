@@ -3,7 +3,7 @@ package com.ug5a.soal2;
                                                     /* !PERINGATAN!
                                             ANDA TIDAK PERLU MENGUBAH CLASS INI*/
 
-public class Main {
+public class SepatuMain {
     public static void main( String[] args ){
         Sepatu nikeA = new Sepatu("Nike Air Jordan 1 High OG",40,3500000,5);
         Sepatu nikeB = new Sepatu("Nike Blazer",38,750000,10);

@@ -3,7 +3,7 @@ package com.ug5a.soal1;
                                                     /* !PERINGATAN!
                                             ANDA TIDAK PERLU MENGUBAH CLASS INI*/
 
-public class Main
+public class TransPayMain
 {
     public static void main(String[] args) {
         //create TransPay object
